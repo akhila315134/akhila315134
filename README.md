@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=4CAF50&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Akhila+Patil;Data+Analyst;Turning+Data+Into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel">
 </p>
 
+<p align="center">
+  <img src="https://zoomchartswebstorage.blob.core.windows.net/blog/20221207_110309_mceu-47644424471670410987453.gif" width="800" alt="Power BI Dashboard Visualization"/>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Akhila Patil</h1>
